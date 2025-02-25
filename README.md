@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white" alt="Nuxt" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="Eslint" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="Pnpm" />
+<a href="https://nuxt.com/" target="_blank"><img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white" alt="Nuxt" /></a>
+<a href="https://eslint.org/" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="Eslint" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" /></a>
+<a href="https://pnpm.io/" target="_blank"><img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="Pnpm" /></a>
 </p>
 
 <p>
