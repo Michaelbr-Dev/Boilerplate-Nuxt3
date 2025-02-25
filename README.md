@@ -1,75 +1,102 @@
-# Nuxt Minimal Starter
+# Welcome to BoilerPlate Nuxt 3
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="LICENSE.md">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-## Setup
+<p align="center">
+<img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white" alt="Nuxt" />
+<img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="Eslint" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="Pnpm" />
+</p>
 
-Make sure to install dependencies:
+<p>
+A Nuxt 3 boilerplate starter with a lot of features, integrated with TailwindCSS 4, ready for Nuxt 4 with compatibility for future update. Linters are Airbnb eslint, prettiers, Typescript and stylelint.
+</p>
+
+## Author
+
+👤 **Michael Briquet**
+
+- Github: [@Michaelbr-Dev](https://github.com/Michaelbr-Dev)
+- Linkedin: [Michael Briquet](www.linkedin.com/in/michael-briquet)
+- Website: Coming soon
+
+### Collaborators
+
+👤 **DANIELS-ROTH Stan**
+
+- github: [@MrStanDu33](https://github.com/MrStanDu33)
+- Linkedin: [Stan DANIELS-ROTH](https://www.linkedin.com/in/stan-daniels-roth/)
+- Website: [Stan DANIELS-ROTH](https://daniels-roth-stan.fr/)
+
+---
+
+## Features
+
+- [@mdi/font](materialdesignicons.com)
+- [@nuxt/fonts](https://github.com/nuxt/fonts#readme)
+- [@nuxt/icon](https://www.npmjs.com/package/@nuxt/icon)
+- [@nuxt/image](https://image.nuxt.com/)
+- [@nuxtjs/google-fonts](https://github.com/nuxt-modules/google-fonts#readme)
+- [@nuxtjs/robots](https://nuxtseo.com/docs/robots/getting-started/installation)
+- [@nuxtjs/sitemap](https://nuxtseo.com/docs/sitemap/getting-started/installation)
+- [@nuxt/eslint](https://github.com/nuxt/eslint#readme)
+- [tailwindcss](https://tailwindcss.com/)
+- [nuxt-svgo](https://github.com/cpsoinos/nuxt-svgo#readme)
+- [vue-tsc](https://github.com/vuejs/language-tools?tab=readme-ov-file#readme)
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+### Setup
+
+After cloning the project, go to the created folder and install the dependencies.
 
 ```bash
-# npm
-npm install
-
 # pnpm
 pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
+### Development Server
 
-Start the development server on `http://localhost:3000`:
+Start the development server on `http://localhost:3000`
 
 ```bash
-# npm
-npm run dev
-
 # pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+pnpm run dev
 ```
 
-## Production
+### Production
 
-Build the application for production:
+Build the application for production
 
 ```bash
-# npm
-npm run build
-
 # pnpm
 pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+### Lints and fixes files
 
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
+```sh
+pnpm run lint
+pnpm run lint:fix
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### Format files
+
+```sh
+pnpm run format
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+#### Show your support
+
+Give a ⭐️ if this project helped you!
+
+---
